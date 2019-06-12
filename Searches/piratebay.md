@@ -1,5 +1,5 @@
 # Pirate Bay
-This search plugin will get results from [https://thepiratebay.org](/https://thepiratebay.org) or a reverse proxy if specified.
+This search plugin will get results from [https://thepiratebay.org](/https://thepiratebay.org) or a reverse [https://vpnalist.com/proxy-mirror-the-pirate-bay](proxy) if specified.
 
 ## Configuration
 Simplest configuration, uses default search options. (all categories, sort by seeders)
